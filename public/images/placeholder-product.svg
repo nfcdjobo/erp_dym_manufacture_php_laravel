@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" fill="#F3F4F6"/>
+<path d="M50 70C50 65.5817 53.5817 62 58 62H142C146.418 62 150 65.5817 150 70V130C150 134.418 146.418 138 142 138H58C53.5817 138 50 134.418 50 130V70Z" stroke="#9CA3AF" stroke-width="2"/>
+<circle cx="125" cy="85" r="8" stroke="#9CA3AF" stroke-width="2"/>
+<path d="M50 110L70 90L90 110L120 80L150 110V130C150 134.418 146.418 138 142 138H58C53.5817 138 50 134.418 50 130V110Z" fill="#E5E7EB"/>
+<text x="100" y="165" text-anchor="middle" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">Aucune image</text>
+</svg>
